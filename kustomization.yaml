@@ -5,4 +5,5 @@ bases:
 - components/nodeapp/base
 - components/nodejs/base
 - components/python/base
+- components/pythont/base
 kind: Kustomization
